@@ -16,8 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavaniket1221@gmail.com)  
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)]( https://x.com/Aniket_3_13?t=nkR8-y7_YSnO-JhtC9Xz-g&s=09 )  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aniket1221?theme=dark&font=Baloo&ext=contest)
-
-![LeetCode Graph](https://leetcard.jacoblin.cool/Aniket1221?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Aniket1221?theme=dark&ext=contest,heatmap)
 
 ---
 
