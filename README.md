@@ -50,9 +50,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anix12&theme=tokyonight&layout=compact&hide_border=false)  
 
 ---
-
-## ✨ Visitor Count  
-![Visitor Count](https://visitcount.itsvg.in/api?id=Anix12&icon=0&color=13)  
-
----
 ⭐️ From [Anix12](https://github.com/Anix12)  
