@@ -21,10 +21,11 @@
 
 ## 🚀 Tech Stack  
 **Frontend**: HTML, CSS, JavaScript, React, Redux,TailwindCSS, Bootstrap, EJS  
-**Backend**: Node.js, Express.js, Java (Spring Boot basics), PHP (learning),
+**Backend**: Node.js, Express.js, Java (Spring Boot basics), PHP (learning)
 **Database**: MongoDB, MySQL  
 **Tools & Platforms**: Git, GitHub, AWS, Netlify, Heroku, Render, Vite, AtlasDB
-**Design**:  Canva  
+**Design**: Canva 
+
 
 ---
 
