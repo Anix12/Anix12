@@ -18,6 +18,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aniket1221?theme=dark&font=Baloo&ext=contest)
 
 
+### 🧩 LeetCode Stats & Graph  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aniket1221?theme=dark&font=Baloo&ext=contest) 
+
 ---
 
 ## 🚀 Tech Stack  
