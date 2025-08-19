@@ -15,22 +15,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-adhav-057b16264)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavaniket1221@gmail.com)  
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)]( https://x.com/Aniket_3_13?t=nkR8-y7_YSnO-JhtC9Xz-g&s=09 )  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Baloo&ext=contest)
 
 ---
 
 ## 🚀 Tech Stack  
-**Frontend**: HTML, CSS, JavaScript, React, Redux, Next.js, TailwindCSS, Bootstrap, EJS  
-**Backend**: Node.js, Express.js, Java (Spring Boot basics), PHP (learning), Socket.io  
+**Frontend**: HTML, CSS, JavaScript, React, Redux,TailwindCSS, Bootstrap, EJS  
+**Backend**: Node.js, Express.js, Java (Spring Boot basics), PHP (learning),
 **Database**: MongoDB, MySQL  
-**Tools & Platforms**: Git, GitHub, Docker, AWS, Netlify, Heroku, Render, Vite  
-**Design**: Figma, Canva  
+**Tools & Platforms**: Git, GitHub, AWS, Netlify, Heroku, Render, Vite, AtlasDB
+**Design**:  Canva  
 
 ---
 
 ## 📌 Featured Projects  
-- 🔐 [Smart Bank Locker System](https://github.com/yourrepo) – ESP32 + Fingerprint + Keypad based secure locker  
-- 💼 [Job Listing Platform](https://github.com/yourrepo) – Full-stack MERN app for job postings  
-- 📚 [Other Projects](https://github.com/Anix12?tab=repositories) – Explore more in my repos  
+- 🔐 [Portfolio Website](https://github.com/Anix12/Portfolio_Aniket.git) – HTML +CSS +JAVASCRIPT +Vite +React.js
+- 💼 [Url Shortner](https://github.com/Anix12/Url-Shortner.git) – Full-stack MERN app for Short Long Urls
+- 📚 [Airbnb Clone ](https://github.com/Anix12/Wanderlust.git) – Full Stack Airbnb Clone
 
 ---
 🧩 Competitive Programming
