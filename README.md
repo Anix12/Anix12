@@ -12,9 +12,9 @@
 
 ## 🌐 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aniket-gamma.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-adhav-057b16264)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhavaniket1221@gmail.com)  
-[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aniket1221)  
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)]( https://x.com/Aniket_3_13?t=nkR8-y7_YSnO-JhtC9Xz-g&s=09 )  
 
 ---
 
@@ -31,6 +31,15 @@
 - 🔐 [Smart Bank Locker System](https://github.com/yourrepo) – ESP32 + Fingerprint + Keypad based secure locker  
 - 💼 [Job Listing Platform](https://github.com/yourrepo) – Full-stack MERN app for job postings  
 - 📚 [Other Projects](https://github.com/Anix12?tab=repositories) – Explore more in my repos  
+
+---
+🧩 Competitive Programming
+
+🚀 Solved 100+ DSA problems on LeetCode
+
+🔥 Maintained a daily coding streak to sharpen problem-solving
+
+💡 Focus areas: Arrays, Strings, DP, Trees, Graphs
 
 ---
 
