@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Aniket Adhav  
 
-💻 **Aspiring Software Engineer | MERN Stack Developer | Java Enthusiast**  
+💻 Aspiring Software Engineer | MERN Stack Developer | Java Enthusiast  
 
-- 🔭 Currently building **MERN Stack projects** and exploring backend optimizations  
-- 🌱 Learning **Java, Spring Boot & System Design basics**  
-- 👯 Open to collaborating on **full-stack development projects**  
-- 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, SQL**  
-- ⚡ Fun fact: I enjoy solving coding challenges & experimenting with new tech  
-
+🔭 Currently building cool MERN projects and exploring backend performance & scalability  
+🌱 Learning Spring Boot, System Design, and advanced Java concepts  
+👯 Always open to collaborate on full-stack or backend projects  
+💬 Ask me about Java, JavaScript, React, Node.js, MongoDB, SQL  
+⚡ Fun fact: I enjoy solving coding challenges and experimenting with new tech  
+  
 ---
 
 ## 🌐 Connect with Me  
