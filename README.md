@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aniket Adhav  
+# 👋 Hi, I’m Aniket
 
 💻 **Aspiring Software Engineer | MERN Stack Developer | Java Enthusiast**    
 
