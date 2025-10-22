@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Anix12&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anix12&theme=tokyonight&hide_border=false)  
+![](<img src="https://streak-stats.demolab.com?user=Anix12&theme=default&hide_border=true" alt="Anix12's GitHub Stats" />)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anix12&theme=tokyonight&layout=compact&hide_border=false)  
 
 ---
